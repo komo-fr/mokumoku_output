@@ -1,1 +1,2 @@
 - event page: https://shinjuku-moku.connpass.com/event/102523/
+- nbviewer: http://nbviewer.jupyter.org/github/komo-fr/mokumoku_output/blob/master/2018/20181006_shinjukumokumoku/fitbit.ipynb
