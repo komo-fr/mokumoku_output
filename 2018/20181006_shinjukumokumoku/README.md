@@ -1,0 +1,1 @@
+- event page: https://shinjuku-moku.connpass.com/event/102523/
