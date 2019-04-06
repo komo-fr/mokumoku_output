@@ -1,12 +1,12 @@
-n_peps,peps
-9,"['3115', '0492', '0563', '3107', '0484', '0343', '0526', '3129', '0318']"
-8,"['3115', '0492', '0560', '3135', '0562', '0484', '0343', '3119']"
-0,[]
-8,"['0255', '0525', '0492', '0380', '0530', '0342', '0448', '0308']"
-0,[]
-8,"['3147', '0302', '0420', '0338', '0451', '0328', '0366', '0395']"
-0,[]
-0,[]
-4,"['0498', '3131', '0414', '3120']"
-6,"['3132', '3104', '0328', '0484', '0526', '0236']"
-0,[]
+index,n_peps,peps,url,category
+compound_stmts.html,9,"['3115', '0492', '0563', '3107', '0484', '0343', '0526', '3129', '0318']",https://docs.python.org/3/reference/compound_stmts,compound_stmts
+datamodel.html,8,"['3115', '0492', '0560', '3135', '0562', '0484', '0343', '3119']",https://docs.python.org/3/reference/datamodel,datamodel
+expressions.html,8,"['0255', '0525', '0492', '0380', '0530', '0342', '0448', '0308']",https://docs.python.org/3/reference/expressions,expressions
+import.html,8,"['3147', '0302', '0420', '0338', '0451', '0328', '0366', '0395']",https://docs.python.org/3/reference/import,import
+simple_stmts.html,6,"['3132', '3104', '0328', '0484', '0526', '0236']",https://docs.python.org/3/reference/simple_stmts,simple_stmts
+lexical_analysis.html,4,"['0498', '3131', '0414', '3120']",https://docs.python.org/3/reference/lexical_analysis,lexical_analysis
+executionmodel.html,0,[],https://docs.python.org/3/reference/executionmodel,executionmodel
+grammar.html,0,[],https://docs.python.org/3/reference/grammar,grammar
+index.html,0,[],https://docs.python.org/3/reference/index,index
+introduction.html,0,[],https://docs.python.org/3/reference/introduction,introduction
+toplevel_components.html,0,[],https://docs.python.org/3/reference/toplevel_components,toplevel_components
